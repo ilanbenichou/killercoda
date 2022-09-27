@@ -1,17 +1,19 @@
 {
-    "title": "Code Actions",
-    "description": "Let users copy or exec code blocks",
+    "title": "Tutoriel Git",
+    "description": "Se familiariser avec Git",
     "details": {
       "intro": {
         "text": "intro.md"
       },
       "steps": [
         {
-          "text": "step1.md"
+          "title": "Cloner un repository",
+          "text": "1-clone-repository/text.md",
+          "verify": "1-clone-repository/verify.sh"
         }
       ]
     },
     "backend": {
       "imageid": "ubuntu"
     }
-  }
+}
