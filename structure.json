@@ -1,0 +1,6 @@
+{
+    "items": [
+      { "path": "scenarios/git", "title": "Git" },
+      { "path": "scenarios/python", "title": "Python" }
+    ]
+}
