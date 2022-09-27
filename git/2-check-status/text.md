@@ -7,8 +7,5 @@
 <br>
 <details><summary>Solution</summary>
 <br>
-
-````plain
-git status
-```{{exec}}
+`git status`{{exec}}
 </details>
