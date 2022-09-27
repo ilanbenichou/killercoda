@@ -10,6 +10,11 @@
           "title": "Cloner un repository",
           "text": "1-clone-repository/text.md",
           "verify": "1-clone-repository/verify.sh"
+        },
+        {
+          "title": "Vérifier le statut Git",
+          "text": "2-check-status/text.md",
+          "verify": "2-check-status/verify.sh"
         }
       ]
     },
