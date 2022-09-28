@@ -12,12 +12,12 @@
           "verify": "1-clone-repository/verify.sh"
         },
         {
-          "title": "Vérifier le statut Git",
+          "title": "Lister les branches",
           "text": "2-list-branches/text.md",
           "verify": "2-list-branches/verify.sh"
         },
         {
-          "title": "Vérifier le statut Git",
+          "title": "Créer une branche",
           "text": "3-create-branch/text.md",
           "verify": "3-create-branch/verify.sh"
         },
@@ -27,22 +27,22 @@
           "verify": "4-check-status/verify.sh"
         },
         {
-          "title": "Vérifier le statut Git",
+          "title": "Commiter les changements",
           "text": "5-commit/text.md",
           "verify": "5-commit/verify.sh"
         },
         {
-          "title": "Vérifier le statut Git",
+          "title": "Pusher une branche",
           "text": "6-push/text.md",
           "verify": "6-push/verify.sh"
         },
         {
-          "title": "Vérifier le statut Git",
+          "title": "Visualiser l'historique",
           "text": "7-log/text.md",
           "verify": "7-log/verify.sh"
         },
         {
-          "title": "Vérifier le statut Git",
+          "title": "Rebaser son code",
           "text": "8-rebase/text.md",
           "verify": "8-rebase/verify.sh"
         }
