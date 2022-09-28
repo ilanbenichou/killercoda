@@ -13,8 +13,38 @@
         },
         {
           "title": "Vérifier le statut Git",
-          "text": "2-check-status/text.md",
-          "verify": "2-check-status/verify.sh"
+          "text": "2-list-branches/text.md",
+          "verify": "2-list-branches/verify.sh"
+        },
+        {
+          "title": "Vérifier le statut Git",
+          "text": "3-create-branch/text.md",
+          "verify": "3-create-branch/verify.sh"
+        },
+        {
+          "title": "Vérifier le statut Git",
+          "text": "4-check-status/text.md",
+          "verify": "4-check-status/verify.sh"
+        },
+        {
+          "title": "Vérifier le statut Git",
+          "text": "5-commit/text.md",
+          "verify": "5-commit/verify.sh"
+        },
+        {
+          "title": "Vérifier le statut Git",
+          "text": "6-push/text.md",
+          "verify": "6-push/verify.sh"
+        },
+        {
+          "title": "Vérifier le statut Git",
+          "text": "7-log/text.md",
+          "verify": "7-log/verify.sh"
+        },
+        {
+          "title": "Vérifier le statut Git",
+          "text": "8-rebase/text.md",
+          "verify": "8-rebase/verify.sh"
         }
       ]
     },
