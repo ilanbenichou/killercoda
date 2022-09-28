@@ -13,4 +13,3 @@ cd /root
 git clone https://github.com/githubtraining/hellogitworld.git
 ```{{exec}}
 </details>
-```
