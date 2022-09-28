@@ -12,7 +12,7 @@
 <br>
 
 ```plain
-echo '----' >> README.txt
+echo '---- A new line at the end ----' >> README.txt
 echo 'hello' > hello.txt
 git status
 ```{{exec}}

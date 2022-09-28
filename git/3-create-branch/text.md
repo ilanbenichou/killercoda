@@ -8,5 +8,6 @@ Créer une nouvelle branche `tuto` depuis la branche locale `master
 
 ```plain
 git checkout -b tuto master
+git branch
 ```{{exec}}
 </details>
