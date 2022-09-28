@@ -13,40 +13,40 @@
         },
         {
           "title": "Lister les branches",
-          "text": "2-list-branches/text.md",
-          "verify": "2-list-branches/verify.sh"
+          "text": "2-list-branches/text.md"
         },
         {
           "title": "Créer une branche",
-          "text": "3-create-branch/text.md",
-          "verify": "3-create-branch/verify.sh"
+          "text": "3-create-branch/text.md"
         },
         {
           "title": "Vérifier le statut Git",
-          "text": "4-check-status/text.md",
-          "verify": "4-check-status/verify.sh"
+          "text": "4-check-status/text.md"
+        },
+        {
+          "title": "Visualiser un fichier modifié",
+          "text": "5-see-differences/text.md"
         },
         {
           "title": "Commiter les changements",
-          "text": "5-commit/text.md",
-          "verify": "5-commit/verify.sh"
+          "text": "6-commit/text.md"
         },
         {
           "title": "Pusher une branche",
-          "text": "6-push/text.md",
-          "verify": "6-push/verify.sh"
+          "text": "7-push/text.md"
         },
         {
           "title": "Visualiser l'historique",
-          "text": "7-log/text.md",
-          "verify": "7-log/verify.sh"
+          "text": "8-log/text.md"
         },
         {
           "title": "Rebaser son code",
-          "text": "8-rebase/text.md",
-          "verify": "8-rebase/verify.sh"
+          "text": "9-rebase/text.md"
         }
-      ]
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
     },
     "backend": {
       "imageid": "ubuntu"
