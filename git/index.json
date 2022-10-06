@@ -49,6 +49,6 @@
       }
     },
     "backend": {
-      "imageid": "ubuntu"
+      "imageid": "git"
     }
 }

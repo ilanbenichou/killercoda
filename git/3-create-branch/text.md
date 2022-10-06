@@ -1,6 +1,6 @@
 <br>
 
-Créer une nouvelle branche `tuto` depuis la branche locale `master
+Créer une nouvelle branche `tuto` depuis la branche locale `master`
 <br>
 <br>
 <details><summary>Solution</summary>
